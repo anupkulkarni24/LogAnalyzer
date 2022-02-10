@@ -13,7 +13,7 @@ git clone https://github.com/anupkulkarni24/log-analyser.git
 2. Open the project in an IDE of your choice.
 3. Run the main application - `com.github.anupkulkarni24.loganalyser.LogAnalyser`.
     1. Create/Update the Run Configuration for the class to provide the program argument.<br />
-       ![Edit Run Config window on Intellij](https://github.com/anupkulkarni24/LogAnalyzer/blob/master/assets/run-config-loganalyser.png)
+       ![Edit Run Config window on Eclipse](https://github.com/anupkulkarni24/LogAnalyzer/blob/master/assets/run-config-loganalyser.png)
 
        <br />
        A sample log file is available in `resources/samples/logfile.txt`
