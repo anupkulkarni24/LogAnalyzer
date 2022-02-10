@@ -1,0 +1,9 @@
+com.github.anupkulkarni24.loganalyser
+com.github.anupkulkarni24.loganalyser.conf
+com.github.anupkulkarni24.loganalyser.manager
+com.github.anupkulkarni24.loganalyser.model
+com.github.anupkulkarni24.loganalyser.model.persistence
+com.github.anupkulkarni24.loganalyser.repository
+com.github.anupkulkarni24.loganalyser.service
+com.github.anupkulkarni24.loganalyser.utilities
+com.github.anupkulkarni24.loganalyser.validator
